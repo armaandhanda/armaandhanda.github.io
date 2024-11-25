@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Emotion-Aware Transformer Encoder for Empathetic Dialogue Generation",
+        "url": "https://github.com/armaandhanda/emotion-aware-transformer",
+        "source": "https://github.com/armaandhanda/emotion-aware-transformer",
+        "desc": "Enhanced dialogue empathy with an emotional classifier and Transformer XL model, achieving 95% accuracy and a BLEU score of 0.225."
+    },
+    {
+        "title": "Weather Prediction (Forecasting Weather Across Cities)",
+        "url": "https://github.com/armaandhanda/weather-prediction",
+        "source": "https://github.com/armaandhanda/weather-prediction",
+        "desc": "Built an LSTM model with batch normalization and dropout layers to predict temperature and weather trends across cities, achieving 91% accuracy."
+    },
+    {
+        "title": "Sales Prediction",
+        "url": "https://github.com/armaandhanda/sales-prediction",
+        "source": "https://github.com/armaandhanda/sales-prediction",
+        "desc": "A time series forecasting project predicting future sales across three product categories: Furniture, Technology, and Office Supplies using SARIMA, Prophet, and LSTM models."
+    },
+    {
+        "title": "Super Bowl Analytics",
+        "url": "https://github.com/armaandhanda/superbowl-analytics",
+        "source": "https://github.com/armaandhanda/superbowl-analytics",
+        "desc": "Explored the impact of Super Bowl ads on beer sales using web scraping, data cleaning, visualization, and regression modeling to estimate ROI."
+    },
+    {
+        "title": "MoneyBall",
+        "url": "https://github.com/armaandhanda/moneyball",
+        "source": "https://github.com/armaandhanda/moneyball",
+        "desc": "Explored predictive analytics for baseball player performance using Linear Regression, Random Forest, and XGBoost."
+    },
+    {
+        "title": "NYC Motor Vehicle Collision Analytics",
+        "url": "https://github.com/armaandhanda/nyc-collision-analytics",
+        "source": "https://github.com/armaandhanda/nyc-collision-analytics",
+        "desc": "Cleaned NYC collision data, implemented dimensional modeling in Snowflake, and developed KPI dashboards in Tableau for collision analysis."
+    }
+]

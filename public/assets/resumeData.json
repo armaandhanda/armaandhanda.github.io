@@ -1,0 +1,164 @@
+{
+    "education": [
+        {
+            "name": "University of California, Los Angeles (UCLA)",
+            "degree": "Master of Science, Business Analytics - Data Science/Machine Learning",
+            "date": "Dec 2024",
+            "area": "Data Science / Machine Learning",
+            "summary": "Currently pursuing a Master's in Business Analytics with a focus on Data Science and Machine Learning. Courses include Advanced Machine Learning, Time Series Analysis, Sports Analytics, Optimization, and A/B Testing.",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "name": "Delhi Technological University",
+            "degree": "Bachelor of Technology, Computer Science/Information Technology",
+            "date": "June 2021",
+            "area": "Computer Science / IT",
+            "summary": "Graduated with a focus on Data Structures & Algorithms, Big Data Analytics, Database Management, and Operating Systems.",
+            "location": "Delhi, India"
+        }
+    ],
+    "work": [
+        {
+            "name": "Walt Disney",
+            "position": "Data Scientist Coop",
+            "date": "Sep 2024 - Dec 2024",
+            "summary": "Engineered and deployed ML models for interchange fees and chargebacks prediction, enabling strategies for customer retention, reducing costs by 10%. Designed interactive dashboards in Tableau and developed a revenue-maximization strategy.",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "name": "Monster Energy",
+            "position": "Data Scientist/Intern",
+            "date": "June 2024 - Sep 2024",
+            "summary": "Automated audit processes, enhancing data consistency, and reducing manual labor by 10 hours monthly. Developed a Python and SQL-based system for real-time database monitoring.",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "name": "American Express (AMEX)",
+            "position": "Data Engineer 2",
+            "date": "Feb 2023 - Aug 2023",
+            "summary": "Executed security compliance measures across 115 APIs. Developed a Python script for JSON data flattening and integrated it with existing structures.",
+            "location": "Gurgaon, India"
+        },
+        {
+            "name": "American Express (AMEX)",
+            "position": "Data Engineer 3",
+            "date": "Aug 2021 - Feb 2023",
+            "summary": "Built a Kafka-based data pipeline for real-time data ingestion. Designed an ETL process to support fraud detection and compliance reporting, optimizing processes by 30%.",
+            "location": "Gurgaon, India"
+        },
+        {
+            "name": "American Express (AMEX)",
+            "position": "Data Intern",
+            "date": "June 2020 - July 2020",
+            "summary": "Created a code crawler using D3.js for GitHub project directory representation, reducing onboarding time by 40%.",
+            "location": "Gurgaon, India"
+        }
+    ],
+    "skills": [
+        {
+            "category": "Programming Languages",
+            "items": [
+                "R",
+                "Python",
+                "C/C++",
+                "SQL",
+                "NoSQL",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "category": "Tools and Technologies",
+            "items": [
+                "Git",
+                "GitHub",
+                "Kafka",
+                "Jira",
+                "Tableau",
+                "Excel",
+                "Splunk",
+                "PowerBI",
+                "Docker",
+                "Snowflake",
+                "AWS (EC2)",
+                "Jenkins",
+                "Anova"
+            ]
+        },
+        {
+            "category": "Machine Learning Models",
+            "items": [
+                "Clustering",
+                "Decision Tree",
+                "Random Forest",
+                "Deep Learning (CNN/RNN)",
+                "PCA",
+                "NLP/LLM",
+                "A/B Testing",
+                "ARIMA",
+                "Bayesian"
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "title": "NPTEL - Ethical Hacking and Networks"
+        },
+        {
+            "title": "NPTEL - Introduction to Algorithms and Analysis"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Emotion-Aware Transformer Encoder for Empathetic Dialogue Generation",
+            "description": "Enhanced dialogue empathy with an emotional classifier and Transformer XL model, achieving 95% accuracy and a BLEU score of 0.225."
+        },
+        {
+            "name": "Weather Prediction",
+            "description": "Built an LSTM model with batch normalization and dropout layers to predict temperature and weather trends across cities, achieving 91% accuracy."
+        },
+        {
+            "name": "Sales Prediction",
+            "description": "A time series forecasting project predicting future sales across three product categories: Furniture, Technology, and Office Supplies using SARIMA, Prophet, and LSTM models."
+        },
+        {
+            "name": "Super Bowl Analytics",
+            "description": "Explored the impact of Super Bowl ads on beer sales using web scraping, data cleaning, visualization, and regression modeling to estimate ROI."
+        },
+        {
+            "name": "MoneyBall",
+            "description": "Explored predictive analytics for baseball player performance using Linear Regression, Random Forest, and XGBoost."
+        },
+        {
+            "name": "NYC Motor Vehicle Collision Analytics",
+            "description": "Cleaned NYC collision data, implemented dimensional modeling in Snowflake, and developed KPI dashboards in Tableau for collision analysis."
+        }
+    ],
+    "awards": [
+        {
+            "name": "CodeForces Rank",
+            "description": "Max rank of 1768 on CodeForces."
+        },
+        {
+            "name": "IEEE Hackathon",
+            "description": "Top 6 in IEEE Hackathon 2019."
+        },
+        {
+            "name": "CSI Hackathon",
+            "description": "Selected in top 10 participants."
+        },
+        {
+            "name": "InterviewBit Contest",
+            "description": "Ranked 24."
+        },
+        {
+            "name": "Snackdown 2019",
+            "description": "Round 1B - Ranked 436."
+        }
+    ],
+    "links": {
+        "github": "https://github.com/armaandhanda",
+        "linkedin": "https://www.linkedin.com/in/armaandhanda",
+        "portfolio": "http://www.armaandhanda.com"
+    }
+}
