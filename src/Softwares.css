@@ -1,0 +1,109 @@
+/* Softwares Container */
+.softwares-container {
+    padding: 16px;
+  }
+  
+  /* Container for the list of projects */
+  .softwares-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Individual list item styling */
+  .softwares-container ul li {
+    margin-bottom: 16px; /* Add spacing between items */
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #f8f9fa; /* Subtle background for better visibility */
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Slight shadow for emphasis */
+  }
+  
+  /* Hover effect on list items */
+  .softwares-container ul li:hover {
+    background-color: #eaf3fa; /* Change background on hover */
+    transform: translateY(-3px); /* Slight lift effect */
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Styling for project title links */
+  .softwares-container .title {
+    font-size: 20px; /* Increased font size for better visibility */
+    font-weight: bold;
+    color: #007bff; /* Bootstrap's primary color */
+    text-decoration: none;
+  }
+  
+  .softwares-container .title:hover {
+    text-decoration: underline; /* Underline title on hover */
+    color: #0056b3; /* Darker shade on hover */
+  }
+  
+  /* Description text styling */
+  .softwares-container .description {
+    margin-top: 8px;
+    font-size: 16px;
+    color: #333; /* Neutral text color */
+    line-height: 1.6;
+  }
+  
+  /* Source code link styling */
+  .softwares-container ul li span a {
+    font-size: 14px;
+    color: #28a745; /* Green for source code links */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .softwares-container ul li span a:hover {
+    text-decoration: underline;
+    color: #1e7e34; /* Darker green on hover */
+  }
+  
+  /* Section heading */
+  .softwares-container .projects-heading {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 24px;
+    text-align: left;
+  }
+  
+  /* Mobile responsiveness */
+  @media (max-width: 768px) {
+    .softwares-container .title {
+      font-size: 16px;
+    }
+    .softwares-container .description {
+      font-size: 14px;
+    }
+    .softwares-container ul li {
+      padding: 12px;
+    }
+  }
+  /* Center alignment for the projects section */
+.softwares-container {
+    text-align: center; /* Center-align the content */
+    padding: 16px;
+  }
+  
+  /* Container for the list of projects */
+  .softwares-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto; /* Center the list container */
+    display: inline-block; /* Ensure the list is treated as an inline-block element */
+    text-align: left; /* Align list items to the left for readability */
+  }
+  
+  /* Section heading */
+  .softwares-container .projects-heading {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 24px;
+    text-align: center; /* Center-align the heading */
+  }
+  
+  

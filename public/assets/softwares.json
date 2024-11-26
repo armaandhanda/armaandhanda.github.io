@@ -1,26 +1,26 @@
 [
     {
         "title": "Emotion-Aware Transformer Encoder for Empathetic Dialogue Generation",
-        "url": "https://github.com/armaandhanda/emotion-aware-transformer",
-        "source": "https://github.com/armaandhanda/emotion-aware-transformer",
+        "url": "https://github.com/armaandhanda/Emotion-Aware-Transformer-Encoder-for-Empathetic-Dialogue-Generation",
+        "source": "https://github.com/armaandhanda/Emotion-Aware-Transformer-Encoder-for-Empathetic-Dialogue-Generation",
         "desc": "Enhanced dialogue empathy with an emotional classifier and Transformer XL model, achieving 95% accuracy and a BLEU score of 0.225."
     },
     {
         "title": "Weather Prediction (Forecasting Weather Across Cities)",
-        "url": "https://github.com/armaandhanda/weather-prediction",
-        "source": "https://github.com/armaandhanda/weather-prediction",
+        "url": "https://github.com/armaandhanda/PredictTemprature",
+        "source": "https://github.com/armaandhanda/PredictTemprature",
         "desc": "Built an LSTM model with batch normalization and dropout layers to predict temperature and weather trends across cities, achieving 91% accuracy."
     },
     {
         "title": "Sales Prediction",
-        "url": "https://github.com/armaandhanda/sales-prediction",
-        "source": "https://github.com/armaandhanda/sales-prediction",
+        "url": "https://github.com/armaandhanda/Economic-and-Financial-Forecasting",
+        "source": "https://github.com/armaandhanda/Economic-and-Financial-Forecasting",
         "desc": "A time series forecasting project predicting future sales across three product categories: Furniture, Technology, and Office Supplies using SARIMA, Prophet, and LSTM models."
     },
     {
         "title": "Super Bowl Analytics",
-        "url": "https://github.com/armaandhanda/superbowl-analytics",
-        "source": "https://github.com/armaandhanda/superbowl-analytics",
+        "url": "https://github.com/armaandhanda/Super-Bowl-Analytics",
+        "source": "https://github.com/armaandhanda/Super-Bowl-Analytics",
         "desc": "Explored the impact of Super Bowl ads on beer sales using web scraping, data cleaning, visualization, and regression modeling to estimate ROI."
     },
     {

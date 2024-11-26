@@ -63,7 +63,7 @@ const navbar = (
     <Navbar.Toggle aria-controls='responsive-navbar-nav' />
     <Navbar.Collapse id='responsive-navbar-nav'>
       <Scrollspy
-        items={['about', 'resume', 'softwares', 'publications']}
+        items={['about', 'resume', 'Projects', 'publications']}
         offset={-72}
         currentClassName='nav-item active'
         className='navbar-nav mr-auto'
@@ -75,7 +75,7 @@ const navbar = (
           <NavLink href='#resume' name='Resume' />
         </Nav.Item>
         <Nav.Item as='li'>
-          <NavLink href='#softwares' name='Softwares' />
+          <NavLink href='#Projects' name='Projects' />
         </Nav.Item>
       </Scrollspy>
     </Navbar.Collapse>
@@ -164,24 +164,33 @@ class App extends Component {
         {navbar}
         <About />
         <Container fluid={true}>
-          <Row id='resume' className='justify-content-md-center'>
-            <Col md={10} sm={12}>
-              <Button variant='outline-info' href='./assets/Armaan_Dhanda_Resume.docx' className='my-2 mr-2' download>
-                Resume <FontAwesomeIcon icon={faDownload} />
-              </Button>
-              <Resume data={this.state.resumeData} />
-
-            </Col>
-          </Row>
+        <Row id="resume" className="justify-content-md-center">
+    <Col md={10} sm={12}>
+      {/* Wrap the heading and button in a flex container */}
+      <div className="d-flex align-items-center justify-content-between">
+        <h1 className="mb-0">Resume</h1>
+        <Button
+          variant="outline-info"
+          href="./assets/Armaan_Dhanda_Resume.pdf"
+          className="my-2"
+          download
+        >
+          Resume <FontAwesomeIcon icon={faDownload} />
+        </Button>
+      </div>
+      {/* Resume component */}
+      <Resume data={this.state.resumeData} />
+    </Col>
+  </Row>
           {/* <Row id='projects' className='justify-content-md-center'>
             <Col md={10} sm={12}>
               <h1>Selected Projects</h1>
               <Projects data={this.state.projData} />
             </Col>
           </Row> */}
-          <Row id='softwares' className='justify-content-md-center'>
+          <Row id='Projects' className='justify-content-md-center'>
             <Col md={10} sm={12}>
-              <h1>Softwares</h1>
+              <h1>Projects</h1>
               <Softwares data={this.state.softwareData} />
             </Col>
           </Row>
